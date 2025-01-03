@@ -75,9 +75,6 @@ We welcome contributions to enhance the project. Please follow the steps below:
    ```
 4. Submit a pull request for review.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 - LangChain Documentation
 - OpenAI for providing robust APIs for LLM integration
